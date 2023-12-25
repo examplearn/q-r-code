@@ -1,12 +1,12 @@
 # Examplearn - Todo list app solution
 
-This is a solution to the [QR code mobile app project on Examplearn](https://examplearn.com/projects/9e63d5ca-25ea-4341-8cb1-0808762c19c0). Examplearn helps horn your coding skills by building realistic projects. 
+This is a solution to the [QR code mobile app project on Examplearn](https://examplearn.com/projects/3e7017a9-6ab1-43b5-afff-1b7748e8ba88). Examplearn helps horn your coding skills by building realistic projects. 
 
 ## About the project
 
 This project is about building a QR code mobile app.
 
-![](./demo/demo-1.jpg)
+![](./demo/demo-1.png)
 
 **Note: Please replace the screenshot with your own.**
 

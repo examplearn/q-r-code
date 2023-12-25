@@ -1,4 +1,4 @@
-# To-do List
+# QR Code Mobile Application
 
 ## Description
 
